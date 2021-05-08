@@ -1,0 +1,4 @@
+# Mo's algorithm과 관련 문제 2개
+
+## 문제 링크
+https://www.acmicpc.net/problem/2912
